@@ -1,5 +1,5 @@
 ## Problem Statement
-Write a Program to find the indeces of two numbers in a list whose sum is equal to a third target number.
+https://leetcode.com/problems/two-sum/description/
 
 ## Approach
 - utilized an unordered-map to store each value and its index
