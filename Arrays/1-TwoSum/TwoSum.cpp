@@ -33,7 +33,7 @@ int main(){
     int target = 9;
     vector<int> Answer;
     Answer = sol.twoSum(numbers, target);
-    cout<<"The Two numbers that add up to"<<target<<"are:"<< numbers[Answer[0]] << "" << numbers[Answer[1]];
+    cout<<"The Indices of the Two numbers that add up to"<<target<<"are:"<< Answer[0] << "" << Answer[1];
     return 0;
 }
 
